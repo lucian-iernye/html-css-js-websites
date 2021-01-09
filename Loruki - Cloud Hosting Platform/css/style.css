@@ -185,6 +185,13 @@ img {
   transform: translateY(-15px);
 }
 
+/* features page */
+/* head */
+.features-head img {
+  width: 200px;
+  justify-self: flex-end;
+}
+
 /* footer */
 .footer .socials a {
   margin: 0 10px;
