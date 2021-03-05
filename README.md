@@ -4,6 +4,13 @@
 
 - Switch branches to see each projects individually or browse into each folder in the main branch.
 
-1. [Loruki - Cloud Hosting Platform](https://github.com/lucian-iernye/html-css-js-websites/tree/traversy-loruki-website)
+1. Loruki - Cloud Hosting Platform
+
+- For React projects see ...
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
 ### Lucian Iernye - 2021
